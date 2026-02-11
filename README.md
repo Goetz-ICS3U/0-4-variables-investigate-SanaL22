@@ -22,7 +22,7 @@ Investigating Variables
 
 # Input
 name = "Mr. Nguyen"
-grade = 13
+grade = 11
 favourite_exclamation = "bruh"
 least_favourite_colour = "yellow"
 is_cool = True
@@ -33,6 +33,7 @@ slope = 2
 y_intercept = 10
 x = 3
 y = slope * x + y_intercept
+
 
 # Processing / Output
 print(
