@@ -1,3 +1,10 @@
+"""
+author:Sana Laone
+date: February 11, 2026
+Investigating Variables
+"""
+
+
 # Input
 name = "Sana"
 grade = 11
