@@ -1,5 +1,5 @@
 """
-author:Sana Laone
+author: Sana Laone
 date: February 11, 2026
 Investigating Variables
 """
