@@ -1,5 +1,6 @@
 """
-var_make.py
+Author: Sana Laone
+February 24, 2026
 
 """
 # Input
@@ -9,14 +10,15 @@ rectange_lenght = int(input("The length of the rectangle: "))
 rectangle_width = int(input("The width of the rectangle: "))
 octagon_side = int(input("A side length of the octagon: "))
 
-pi = 3.14159
-circle_area = pi * circle_radius **2
-circles_perimeter = 2 * pi * circle_radius
+import math
+
+circle_area = math.pi * circle_radius **2
+circles_perimeter = 2 * math.pi * circle_radius
 
 rectangle_area = rectange_lenght * rectangle_width
 rectangle_perimeter = 2 * (rectange_lenght + rectangle_width)
 
-octagon_area = 2 * (1 + 2 ** 0.5) * octagon_side ** 2
+octagon_area = 2 * (1 + math.sqrt(2)) * octagon_side ** 2
 octagon_perimeter = 8 * octagon_side
 
 
