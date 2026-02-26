@@ -1,7 +1,7 @@
 """
-Author: Sana Laone
-February 24, 2026
-
+# Author: Sana Laone
+# Data: February 24, 2026
+# Discription: calculate the area and perimeter of a cricle, rectangle and octagon
 """
 # Input
 
