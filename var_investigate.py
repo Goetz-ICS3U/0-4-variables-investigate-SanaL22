@@ -1,7 +1,7 @@
 """
-author: Sana Laone
-date: February 11, 2026
-Investigating Variables
+# Author: Sana Laone
+# Date: February 11, 2026
+# Discription: Edit a stroy by creating your 3 new variables and change the values of the other existing variables
 """
 
 
