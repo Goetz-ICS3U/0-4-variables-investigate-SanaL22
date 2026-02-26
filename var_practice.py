@@ -5,7 +5,7 @@
 # discription: Write a story useing the 7 variables that you created 
 """
 
-# Input
+# input
 place = input("Please enter a place:  ")
 adjective = input("Please enter a adjective:  ")
 noun = input("Please enter a noun: ")
@@ -17,8 +17,8 @@ destination = input("Please enter a destination: ")
 
 
 
-# Processing
-# Output
+# processing
+# output
 print(f"Last summer me and my frined {name} decided to go to {destination}, which is located in {place}.")
 print(f"My sister has been to {place} befor, so {pronoun} told us all the place we should go to.")
 print(f"It was supper hot in {place}, but that only ment we could eat more gelato.")
