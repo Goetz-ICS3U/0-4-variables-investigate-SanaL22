@@ -1,5 +1,8 @@
+
 """
-Story by Sana Laone
+# author: Sana Loane
+# data: February 26, 2026
+# discription: Write a story useing the 7 variables that you created 
 """
 
 # Input
