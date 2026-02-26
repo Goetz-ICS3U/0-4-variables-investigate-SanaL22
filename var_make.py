@@ -3,8 +3,7 @@
 # Data: February 24, 2026
 # Discription: calculate the area and perimeter of a cricle, rectangle and octagon
 """
-# Input
-
+# input
 circle_radius = int(input("The radius of the circle: "))
 rectange_lenght = int(input("The length of the rectangle: "))
 rectangle_width = int(input("The width of the rectangle: "))
@@ -22,9 +21,8 @@ octagon_area = 2 * (1 + math.sqrt(2)) * octagon_side ** 2
 octagon_perimeter = 8 * octagon_side
 
 
-# Processing
-# Output.
-
+# processing
+# output.
 print(f"The circle has an area of {circle_area} and a perimeter of {circles_perimeter}")
 print(f"The rectangle has an area of {rectangle_area} and a perimeter of {rectangle_perimeter}")
 print(f"The octagon has an area of {octagon_area} and a perimeter of {octagon_perimeter}")
