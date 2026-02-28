@@ -1,3 +1,4 @@
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=22615367&assignment_repo_type=AssignmentRepo)
 # 0.4-variables-investigation
 ## Startup
 
@@ -21,7 +22,7 @@ Investigating Variables
 
 # Input
 name = "Mr. Nguyen"
-grade = 13
+grade = 11
 favourite_exclamation = "bruh"
 least_favourite_colour = "yellow"
 is_cool = True
@@ -32,6 +33,7 @@ slope = 2
 y_intercept = 10
 x = 3
 y = slope * x + y_intercept
+
 
 # Processing / Output
 print(
